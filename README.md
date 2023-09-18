@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AnalyseChris
+- 🎓 I'm A Teaching and Research Associate and part-time Ph.D. Candidate in Psychlogy
 - 👀 I’m interested in data analysis using R, Excel, PowerBI, and SQL
-- 🌱 I’m currently developing PowerBI and SQL proficiency  
+- 🌱 I’m currently developing PowerBI and SQL proficiency 
 
 <!---
 AnalyseChris/AnalyseChris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
