@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnalyseChris
-- 🎓 I'm A Teaching and Research Associate and part-time Ph.D. Candidate in Psychlogy
+- 🎓 I'm a Teaching and Research Associate and part-time Ph.D. Candidate in Psychlogy
 - 👀 I’m interested in data analysis using R, Excel, PowerBI, and SQL
 - 🌱 I’m currently developing PowerBI and SQL proficiency 
 
